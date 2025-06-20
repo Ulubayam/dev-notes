@@ -98,5 +98,5 @@ Following these principles helps developers write better, more maintainable, and
 
 - [KISS Principle – Wikipedia](https://en.wikipedia.org/wiki/KISS_principle)
 - [DRY Principle – Wikipedia](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
-- [YAGNI – Extreme Programming](https://xp123.com/articles/principles-of-agile-development/)
+- [YAGNI – Geeks](https://www.geeksforgeeks.org/software-engineering/what-is-yagni-principle-you-arent-gonna-need-it/)
 - [No Silver Bullet – Fred Brooks](https://en.wikipedia.org/wiki/No_Silver_Bullet)
